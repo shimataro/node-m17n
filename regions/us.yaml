@@ -1,0 +1,18 @@
+# region: United States
+
+timezone:
+  id: "America/New_York"
+  name: "EST"
+  offset: "+0500"
+  offsetSeconds: -18000
+
+currency:
+  code: "USD"
+  sign: "$"
+  subSign: "¢"
+  subRate: 100
+
+number:
+  characterPoint: "."
+  characterSeparator: ","
+  columns: 3

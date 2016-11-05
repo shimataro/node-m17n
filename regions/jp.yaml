@@ -1,0 +1,18 @@
+# 地域情報: 日本
+
+timezone:
+  id: "Asia/Tokyo"
+  name: "JST"
+  offset: "+0900"
+  offsetSeconds: 32400
+
+currency:
+  code: "JPY"
+  sign: "Ұ"
+  subSign: None
+  subRate: None
+
+number:
+  characterPoint: "."
+  characterSeparator: ","
+  columns: 3

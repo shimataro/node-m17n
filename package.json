@@ -1,0 +1,29 @@
+{
+	"name": "node-m17n",
+	"version": "0.1.0",
+	"description": "multilingualization module for Node.js server",
+	"author": "shimataro",
+	"main": "index.es6",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shimataro/node-m17n.git"
+	},
+	"keywords": [
+		"i18n",
+		"l10n",
+		"g11n",
+		"m17n",
+		"internationalization",
+		"internationalisation",
+		"localization",
+		"localisation",
+		"globalization",
+		"globalisation",
+		"multilingualization",
+		"multilingualisation"
+	],
+	"dependencies": {
+		"node-yaml": "^3.0.3"
+	}
+}

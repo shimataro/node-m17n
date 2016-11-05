@@ -1,0 +1,18 @@
+# région: France
+
+timezone:
+  id: "Europe/Paris"
+  name: "CET"
+  offset: "+0100"
+  offsetSeconds: 3600
+
+currency:
+  code: "EUR"
+  sign: "€"
+  subSign: "c"
+  subRate: 100
+
+number:
+  characterPoint: ","
+  characterSeparator: " "
+  columns: 3

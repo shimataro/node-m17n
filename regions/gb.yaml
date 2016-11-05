@@ -1,0 +1,18 @@
+# region: United Kingdom
+
+timezone:
+  id: "GMT"
+  name: "EST"
+  offset: "+0000"
+  offsetSeconds: 0
+
+currency:
+  code: "GBP"
+  sign: "£"
+  subSign: "p"
+  subRate: 100
+
+number:
+  characterPoint: "."
+  characterSeparator: ","
+  columns: 3

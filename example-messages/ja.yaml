@@ -1,0 +1,8 @@
+# メッセージの例: 日本語
+i18n: "国際化"
+l10n: "地域化"
+
+message:
+ to:
+  be:
+    replaced: "{aaa} {bbb} {ccc}"

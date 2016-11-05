@@ -1,0 +1,8 @@
+# example message: English
+i18n: "internationalization"
+l10n: "localization"
+
+message:
+ to:
+  be:
+    replaced: "{aaa} {bbb} {ccc}"
