@@ -1,6 +1,8 @@
 node-m17n
 ===
 
+[![Join the chat at https://gitter.im/shimataro/node-m17n](https://badges.gitter.im/shimataro/node-m17n.svg)](https://gitter.im/shimataro/node-m17n?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 multilingualization module for Node.js server
 
 ## How to use
